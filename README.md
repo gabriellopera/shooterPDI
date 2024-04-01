@@ -6,7 +6,7 @@
 + Johan Andrés Asprilla
 + Gabriel Antonio Lopera Madrid
 
-Creacion del Juego Flappy Bird https://youtu.be/jrUJ8EsnctI?si=t4wwFZ7AhnQbuo31
+Creacioón del Juego Shooter https://youtu.be/jrUJ8EsnctI?si=t4wwFZ7AhnQbuo31
 Basado en el Repositorio https://github.com/mundo-python/shooter-pygame
 
 Esta version del juego Shooter, usa la cámara para captura los datos y poder controlar la nave espacial, se utiliza un objeto verde para mover la nave en el eje x y otro objeto azul para activar los disparos de la nave. La finalidad de este juego es aplicar los conocimientos adquiridos en procesamiento digital de imagenes en lo que se lleva del curso.
